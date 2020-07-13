@@ -1,0 +1,2 @@
+transaction_id,transaction_timestamp,amount,user_id,transaction_type,bank_balance_impact,tx_status
+b547f4e9efc34e74af2763ab9de1509f34be9ca80dada7bdec165019ea13f6c1,2018-08-29 07:09:31.042638,500.0,4adedaef68a5f9b139110c73214295565f22a10162f8c69f575de4a52b8589f9,PT,-500.0,NOT_FRAUD
