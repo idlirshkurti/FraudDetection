@@ -24,13 +24,13 @@ FraudDetection
 |   run.py
 │
 └─── data
-│   │   incoming.csv
-│   │   outgoing.csv
-|   |   example.csv
+│   └-- incoming.csv
+│   └-- outgoing.csv
+|   └-- example.csv
 │   
 └─── src
-    │   pipeline.py
-    │   dataloader.py
+    └-- pipeline.py
+    └-- dataloader.py
 ```
 
 
