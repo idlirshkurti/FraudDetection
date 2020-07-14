@@ -15,7 +15,7 @@ tables have the same number of columns and column names:
   * __tx_status__ - FRAUD or NOT_FRAUD decision per transaction
   
   
-## Directory
+## Repository structure
 The project directory is set up the following way:
 
 ```
