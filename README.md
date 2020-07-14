@@ -6,13 +6,13 @@ The data used in this challenge are two csv files containing incoming and outgoi
 ’2018-06-19 11:08:59.049229’ and ’2018-11-25 11:02:46.357596’. Both the incoming and outgoing
 tables have the same number of columns and column names:
 
-  * transaction_id - unique ID for the transaction
-  * transaction_timestamp - date-time when the transaction has occurred
-  * amount - amount of money incoming or outgoing for that transaction
-  * user_id - unique ID for the client
-  * transaction_type - transaction type (i.e. ’AE’, ’AV’, ’AR’,...)
-  * bank_balance_impact - impact on the bank balance after the transaction. If incoming then should be positive (or void), if outgoing then it should be negative.
-  * tx_status - FRAUD or NOT_FRAUD decision per transaction
+  * __transaction_id__ - unique ID for the transaction
+  * __transaction_timestamp__ - date-time when the transaction has occurred
+  * __amount__ - amount of money incoming or outgoing for that transaction
+  * __user_id__ - unique ID for the client
+  * __transaction_type__ - transaction type (i.e. ’AE’, ’AV’, ’AR’,...)
+  * __bank_balance_impact__ - impact on the bank balance after the transaction. If incoming then should be positive (or void), if outgoing then it should be negative.
+  * __tx_status__ - FRAUD or NOT_FRAUD decision per transaction
   
   
 ## Directory
