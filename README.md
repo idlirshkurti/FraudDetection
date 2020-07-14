@@ -20,17 +20,18 @@ The project directory is set up the following way:
 
 ```
 FraudDetection
-│   README.md
-|   run.py
-│
+|
 └─── data
 │   └-- incoming.csv
 │   └-- outgoing.csv
 |   └-- example.csv
 │   
 └─── src
-    └-- pipeline.py
-    └-- dataloader.py
+│   └-- pipeline.py
+│   └-- dataloader.py
+│    
+└-- README.md
+└-- run.py
 ```
 
 
